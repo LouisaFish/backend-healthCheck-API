@@ -45,7 +45,7 @@ const server = http.createServer((req, res) => {
       { id: 4, name: "耳機", price: 2990 },
       { id: 5, name: "螢幕", price: 6990 },
        { id: 6, name: "Dell大螢幕", price: 12990 },
-        { id: 7, name: "雙頻路由器", price: 4199 },
+        { id: 7, name: "雙頻路由器", price: 5199 },
         { id: 8, name: "充電器", price: 1499 },
     ];
 
